@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackLab3", "BackLab3.csproj", "{7847E1C7-F7FC-C962-6A77-73A2CE5988C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7847E1C7-F7FC-C962-6A77-73A2CE5988C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7847E1C7-F7FC-C962-6A77-73A2CE5988C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7847E1C7-F7FC-C962-6A77-73A2CE5988C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7847E1C7-F7FC-C962-6A77-73A2CE5988C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B174A6D6-9C83-43E6-B86A-E999AB248793}
+	EndGlobalSection
+EndGlobal
